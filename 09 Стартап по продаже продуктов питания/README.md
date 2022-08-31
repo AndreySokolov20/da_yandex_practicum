@@ -25,3 +25,7 @@
 ## Используемые библиотеки:
 * Python
 * Pandas
+* Matplotlib
+* SciPy
+* Math
+* Plotly
