@@ -21,3 +21,4 @@
 ## Используемые библиотеки:
 * Python
 * Pandas
+* Seaborn
