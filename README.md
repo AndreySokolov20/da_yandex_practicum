@@ -1,5 +1,5 @@
  # Аналитик данных — Яндекс.Практикум
- [Ссылка на курс:](адрес://ссылки.здесь "https://practicum.yandex.ru/data-analyst/") 
+ Ссылка на курс: [https://practicum.yandex.ru/data-analyst/](https://practicum.yandex.ru/data-analyst/)
  
  
  
