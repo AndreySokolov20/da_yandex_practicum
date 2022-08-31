@@ -37,5 +37,4 @@
 * NumPy
 * Matplotlib
 * SciPy
-* Math
 * Seaborn
