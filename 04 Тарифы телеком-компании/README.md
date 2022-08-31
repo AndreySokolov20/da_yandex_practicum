@@ -25,3 +25,8 @@
 ## Используемые библиотеки:
 * Python
 * Pandas
+* Matplotlib
+* NumPy
+* SciPy
+* Math
+* Seaborn
