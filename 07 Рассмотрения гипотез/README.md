@@ -25,3 +25,4 @@
 ## Используемые библиотеки:
 * Python
 * Pandas
+Python, Pandas, Matplotlib, SciPy, Datetime, Numpy, Math,
