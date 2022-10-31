@@ -30,11 +30,11 @@
 
 
 ## Используемые библиотеки:
-•	Python
-•	Pandas
-•	Matplotlib
-•	Seaborn
-•	SciPy
-•	Math
-•	Plotly
-•	Numpy
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* SciPy
+* Math
+* Plotly
+* Numpy
