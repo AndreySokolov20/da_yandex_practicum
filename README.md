@@ -1,7 +1,8 @@
  # Аналитик данных — Яндекс.Практикум
  Ссылка на курс: [https://practicum.yandex.ru/data-analyst/](https://practicum.yandex.ru/data-analyst/)
  
- ![]("C:\Users\sokol\YandexDisk\IT учеба\Диплом_Соколов Андрей Викторович_20222DA00904.pdf")
+![alt text](https://github.com/AndreySokolov20/da_yandex_practicum/files/9979084/_._20222DA00904.pdf)
+
  
 ### Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных":
  
